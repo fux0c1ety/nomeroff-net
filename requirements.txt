@@ -1,7 +1,7 @@
 cython
 setuptools
 numpy==1.23.5
-imgaug>=0.4.*
+imgaug
 opencv_python
 scikit_image
 asyncio
@@ -12,7 +12,7 @@ pillow
 tqdm
 matplotlib
 scipy
-torch>=1.12
+torch
 torchvision>=0.13
 PyYAML>=5.4
 seaborn
